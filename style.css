@@ -87,6 +87,16 @@ p {
 
 }
 
+.borderPerso {
+
+	
+	padding: 10px;
+	border:1px solid black;
+	border-radius: 10px;
+	list-style-type: none;
+	border-color: #1D5C6E;
+}
+
 
 .titrecv {
 	text-align : center;
